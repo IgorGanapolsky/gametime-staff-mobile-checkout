@@ -1,0 +1,9 @@
+{
+  "labels": [
+    "greptile-review-approved"
+  ],
+  "includeBranches": [
+    "greptile-review-approved"
+  ],
+  "statusCheck": false
+}
